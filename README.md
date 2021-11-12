@@ -2,7 +2,7 @@
 Pong implementaion in (mostly) pure Q.
 
 # Instructions
-Download Q binaries from KX and start the game with
+Download Q binaries from [KX](https://kx.com/download/) and start the game with
 ```
 q ponq.q
 ```
