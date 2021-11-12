@@ -1,4 +1,4 @@
-# ponq
+# Ponq
 Pong implementaion in (mostly) pure Q.
 
 # Instructions
